@@ -1,0 +1,25 @@
+body{
+  width:100%;
+}
+.fixedHeader{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height:80px;
+}
+.sectionContent{
+  margin-top: 80px;
+
+  }
+.navbar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height:80px;
+}
+.footer{
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+ 
+}
