@@ -23,3 +23,11 @@ body{
   width: 100%;
  
 }
+.indImg{
+  margin: 5px;
+}
+
+.zebra{
+  border:#dddddd solid 1px;
+  background-color:#ffffff;
+}
