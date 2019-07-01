@@ -31,3 +31,18 @@ body{
   border:#dddddd solid 1px;
   background-color:#ffffff;
 }
+.thumbnail {
+  position: relative;
+  padding: 10px;
+
+}
+
+.caption {
+  margin:10px;
+  position: absolute;
+  bottom: 8%;
+  left: 0;
+  width: 95%;
+  background:teal;
+  opacity: .9;
+}
